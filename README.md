@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **onurkocak34@protonmail.com**
 
-- ⚡ Fun fact **I think**
+- ⚡ Fun fact **I think I am very hardworking and that's why everyone is satisfied with most of my projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

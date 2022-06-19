@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onur Koçak</h1>
 <h3 align="center">Python Developer From United States</h3>
 
-- 🔭 I’m currently working on [Python](Bash)
+- 🔭 I’m currently working on **Python**
 
 - 🌱 I’m currently learning **Python, Bash, JavaScript**
 
